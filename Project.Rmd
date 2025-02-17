@@ -6,7 +6,7 @@ output: html_document
 ---
 ## About case study 
 
-![Bicycle Data Thumbnail](https://github.com/hassan-sv/Capstone-Project-Bicycle-Data/blob/main/images/thumbnail.png)
+![Bicycle Data Thumbnail](./images/thumbnail.png)
 
 
 This case study explores the usage patterns of Cyclistic, a bike-share company in Chicago, to understand how casual riders and annual members differ in their bike usage. The goal is to provide actionable insights to convert casual riders into annual members, ultimately driving the company’s growth
