@@ -5,7 +5,7 @@ date: 2025-02-13
 output: html_document
 ---
 ## About case study 
-https://github.com/hassan-sv/Capstone-Project-Bicycle-Data/blob/main/thumbnail.png
+![Thumbnail](thumbnail.png)
 
 This case study explores the usage patterns of Cyclistic, a bike-share company in Chicago, to understand how casual riders and annual members differ in their bike usage. The goal is to provide actionable insights to convert casual riders into annual members, ultimately driving the company’s growth
 This project is part of the Google Data Analytics Professional Certificate on [link](https://www.coursera.org/professional-certificates/google-data-analytics)
