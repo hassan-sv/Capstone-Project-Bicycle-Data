@@ -5,6 +5,7 @@ date: 2025-02-13
 output: html_document
 ---
 ## About case study 
+
 https://github.com/hassan-sv/Capstone-Project-Bicycle-Data/blob/main/thumbnail.png
 
 
