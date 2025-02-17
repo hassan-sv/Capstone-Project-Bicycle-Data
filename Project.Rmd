@@ -5,8 +5,9 @@ date: 2025-02-13
 output: html_document
 ---
 ## About case study 
-<img src="<img src="https://github.com/your-username/your-repository/blob/main/images/sample.jpg" alt="Sample Image">
-">
+<img src="https://github.com/hassan-sv/Capstone-Project-Bicycle-Data/blob/main/thumbnail.png">
+
+
 
 
 
