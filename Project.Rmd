@@ -202,7 +202,7 @@ This plot shows a summary of the types of bikes used and which top stations were
   
 This plot compares the total number of annual and causal riders by days in year 2024 and
 showcases which days the riders prefered to ride [Click](https://public.tableau.com/app/profile/taimur.hassan7268/viz/Member_casuals_2024/Dashboard1)
-![My Image](C:\Users\Hassa\Downloads\dashboard_1.png)
+![My Image]("C:\Users\Hassa\Downloads\dashboard_1.png")
   
 ## Step 5: Share
 
