@@ -175,7 +175,7 @@ in a bar chart in descending order
   
 This plot will showcase the total number of casual riders per day in year 2024
 [Click](https://public.tableau.com/app/profile/taimur.hassan7268/viz/Casualsday_2024/Casuals2024)
-![My Image](images/casuals_2024.png)
+![My Image](casuals_2024.png)
   
 ## Plot 4 - Annual members riders per day 
   
